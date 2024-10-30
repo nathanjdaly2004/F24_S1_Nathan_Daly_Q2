@@ -6,7 +6,7 @@ import java.util.Map;
 
 public class Integers {
 
-    // Created values of 100, 1000 etc
+    // Created values of 100, 1000 etc..
     private static final int BILLION = 1000000000;
     private static final int MILLION = 1000000;
     private static final int THOUSAND = 1000;
